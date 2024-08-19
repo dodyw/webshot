@@ -37,7 +37,8 @@ The main purpose of this service is to allow users to easily capture screenshots
 
 1. Clone the repository:
    ~~~
-   git clone https://github.com/dodyw/webshot cd website-screenshot-service
+   git clone https://github.com/dodyw/webshot 
+   cd webshot
    ~~~
 2. Install dependencies:
    ~~~
